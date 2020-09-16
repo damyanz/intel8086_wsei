@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/intel8086_wsei/static/css/main.9261f841.chunk.css",
+    "main.js": "/intel8086_wsei/static/js/main.5b48fc6a.chunk.js",
+    "main.js.map": "/intel8086_wsei/static/js/main.5b48fc6a.chunk.js.map",
+    "runtime-main.js": "/intel8086_wsei/static/js/runtime-main.a29cdfea.js",
+    "runtime-main.js.map": "/intel8086_wsei/static/js/runtime-main.a29cdfea.js.map",
+    "static/js/2.1baf4319.chunk.js": "/intel8086_wsei/static/js/2.1baf4319.chunk.js",
+    "static/js/2.1baf4319.chunk.js.map": "/intel8086_wsei/static/js/2.1baf4319.chunk.js.map",
+    "index.html": "/intel8086_wsei/index.html",
+    "precache-manifest.adf4264dfc57b288c922f3ebd739703b.js": "/intel8086_wsei/precache-manifest.adf4264dfc57b288c922f3ebd739703b.js",
+    "service-worker.js": "/intel8086_wsei/service-worker.js",
+    "static/css/main.9261f841.chunk.css.map": "/intel8086_wsei/static/css/main.9261f841.chunk.css.map",
+    "static/js/2.1baf4319.chunk.js.LICENSE.txt": "/intel8086_wsei/static/js/2.1baf4319.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a29cdfea.js",
+    "static/js/2.1baf4319.chunk.js",
+    "static/css/main.9261f841.chunk.css",
+    "static/js/main.5b48fc6a.chunk.js"
+  ]
+}
